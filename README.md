@@ -41,7 +41,7 @@ This project demonstrates strong understanding of Object-Oriented Programming (O
 ▶️ How to Run this files
 
   1.repository
-    git clone https://github.com/your-username/Car-Rental-System.git
+    git clone https://github.com/arynve22/Car-Rental-System-master-project
     cd Car-Rental-System
 
   2.Compile the code  
